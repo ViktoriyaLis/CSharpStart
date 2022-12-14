@@ -1,1 +1,2 @@
-# CSharpStart
+# CSharpStart 
+Тренировочные проекты
